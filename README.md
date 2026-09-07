@@ -1,6 +1,6 @@
 # catchaorbb
 
-VB6 working copy of `catchaorbb` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `Project1.exe`. `VersionCompanyName`: Acidmax.
+Acidmax / Coenraad Steenkamp VB6 Catch a Orbb arcade game (`Project1.exe`) with intro, instructions, timed play field, and top-5 scores. Open `Project1.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `Project1` (`Project1.vbp`) | VB6 | WinForms exe | Project1 |
+| `Project1` (`Project1.vbp`) | VB6 | WinForms exe | Catch a Orbb timed catch game |
 
 ## How to open
 
